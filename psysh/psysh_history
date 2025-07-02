@@ -1,0 +1,10 @@
+$note = new App\Models\Note;
+$note->title  = "first note"
+5+5
+use App\Models\Ninja
+Ninja::create(["name => "mario", "skill" => 75, "bio" => "blahblah"])
+Ninja::create(["name" => "mario", "skill" => 75, "bio" => "blahblah"])
+clear
+use App\Models\Ninja
+Ninja
+Ninja::factory()->count(50)->create()
